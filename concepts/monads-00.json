@@ -1,0 +1,19 @@
+{
+  "type": "concept",
+  "name": "monad",
+  "parents": [
+    "functional programming"
+  ],
+  "description": {
+    "short": "Eugenio Moggi first describes the general use of monads to structure computer programs.",
+    "long": "..."
+  },
+  "date": {
+    "year": 1991,
+    "month": 7,
+    "day": null
+  },
+  "sources": [
+    { "doi": "https://doi.org/10.1016/0890-5401(91)90052-4" }
+  ]
+}

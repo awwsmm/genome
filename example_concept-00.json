@@ -1,0 +1,23 @@
+{
+  "type": "concept",
+  "name": "example concept",
+  "parents": [
+    "parent concept one",
+    "parent concept two",
+    "..."
+  ],
+  "description": {
+    "short": "This is a short description of this concept, written as a single complete sentence, with proper punctuation.",
+    "long": "This is a longer description of this concept and can be more verbose, but should still be written in full sentences with proper punctuation. This is an example 'concept' JSON file. Concepts should contain 'type', 'name', and 'parents' fields, and all data in those fields should all be lowercase. The name of this file is 'example_concept-00.json'. Note that the space in the concept name has been replaced with an underscore in the file name, and that all concept and syntax files are followed by -XX, where XX is simply a strictly increasing index for different notes on the same concept. As seen below, the emergence of -- or milestones in the development of -- concepts should be dated, when appropriate. Missing or unknown data can be left null. Sources *must* be included and canonical sources (DOI, etc.) should be used when available. (As opposed to, for instance, blogs, Wikipedia, personal webpages, etc., which are more susceptible to link rot.) 'DOI' or 'URL' sources are preferred, but 'ISBN' are also good."
+  },
+  "date": {
+    "year": 1991,
+    "month": 7,
+    "day": null
+  },
+  "sources": [
+    { "doi": "https://doi.org/10.1016/0890-5401(91)90052-4" },
+    { "url": "http://www.softwarepreservation.org/projects/apl/Books/APROGRAMMING%20LANGUAGE" },
+    { "isbn": "978-0471430148" }
+  ]
+}
