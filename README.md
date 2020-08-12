@@ -33,7 +33,7 @@ Why undertake such a large project? The hope is that, using the evolutionary tre
 
 ## Contributing
 
-We welcome contributors and will soon have make some contribution guidelines available.
+This project is currently in its infancy. We welcome contributors and will soon have make some contribution guidelines available. If you're eager to get started, though, please reach out to me at aww@awwsmm.com.
 
 ---
 
