@@ -4,6 +4,9 @@
   "parents": [
     "comments"
   ],
+  "languages": [
+    "APL"
+  ]
   "description": {
     "short": "APL introduces the ⍝ symbol for single-line comments.",
     "long": "Although some resources seem to claim that this has been a part of the APL language since its inception, I am unable to find any reference to it in Iverson's original work 'A Programming Language' (1962), which is more theoretical and mathematical in nature. The IBM APL\\360 User's Manual (1968) is the earliest reference I can find to this particular symbol, 'U+235D'. From page 107 of the Manual: 'The lamp symbol ⍝, formed by overstriking... signifies that what follows it is a comment, for illumination only and not to be executed; it may occur only as the first character in a statement, but may be used in defined functions.' In other words, it sounds like the APL ⍝ cannot be used as an end-of-line comment, but only an entire-line comment."
